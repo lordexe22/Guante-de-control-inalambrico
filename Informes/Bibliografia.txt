@@ -1,0 +1,31 @@
+Strings Arduino
+https://www.aranacorp.com/es/resumen-sobre-las-string-con-arduino/
+
+Comunicacion UART arduino y ESP32
+https://www.programmingboss.com/2021/04/esp32-arduino-serial-communication-with-code.html
+
+MPU6050 libreria github
+https://adafruit.github.io/Adafruit_MPU6050/html/class_adafruit___m_p_u6050.html
+
+MPU6050 configuracion
+https://naylampmechatronics.com/blog/45_tutorial-mpu6050-acelerometro-y-giroscopio.html
+
+Propiedades transform unity
+https://docs.unity3d.com/ScriptReference/Transform.html
+
+Conexion de una targeta SD a un ESP32
+https://randomnerdtutorials.com/esp32-microsd-card-arduino/
+https://randomnerdtutorials.com/guide-to-sd-card-module-with-arduino/
+
+Servomotor - codificacion
+https://www.youtube.com/watch?v=dJAlkrXbfbQ
+
+Memoria SD - Lectura
+https://www.luisllamas.es/tarjeta-micro-sd-arduino/
+
+ESP32 - ESPNOW
+https://electrodiy.cl/2022/04/04/protocolo-espnow-para-la-comunicacion-entre-dos-dispositivos-nodemcu-esp8266/#:~:text=ESP%2DNow%20es%20un%20protocolo,hecho%20la%20conexi%C3%B3n%20ser%C3%A1%20autom%C3%A1tica.
+
+ESP32 - TESIS
+https://upcommons.upc.edu/bitstream/handle/2117/344400/Sistema-de-adquisicion-de-datos-con-ESP32_Jamal-Ikiss.pdf?sequence=1&isAllowed=y
+
